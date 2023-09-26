@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.logo{
+    margin-left: 130px;
+}
+nav{
+    background-color: #134361;
+}
+.links{
+    margin-left: 1000px;
+    margin-top: -40px;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.learn{
+   margin-top: 70px;
+   margin-left: 60px;
+}
+.learn2{
+   opacity: 0.5;
+}
+.learn3{
+    margin-top: -300px;
+    margin-left: 550px;
+    font-size: 50px;
+} 
+.learn4{
+    margin-left: 600px;
+    font-size: 20px;
+}
+.learn5{
+    margin-left: 380px;
+    padding-top: 300px;
+    font-size: 18px;
+}
+.learn6{
+    margin-left: 550px;
+    padding-top: 90px;
+}
+.learn7{
+    margin-left: 400px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+.learn8{
+    margin-top: 40px;
+    margin-left: 430px;
+    cursor: pointer;
+}
+.g{
+    margin-left: 600px;
+    color: red;
+    cursor: pointer;
+}
+.h{
+    margin-left: 580px;
+    color: red;
+    cursor: pointer;
+}
+.j{
+    margin-left: 540px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.j a{
+    margin-left: 50px;
+    color: red;
+    text-decoration: none;
+    padding-top: 30px;
+}
+.v{
+    color: white;
+}
+.z{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.y{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.w{
+    color: white;
+    margin-left: 980px;
+    text-decoration: none;
+}
+.x{
+    color: white;
+    margin-left: 1000px;
+    text-decoration: none;
+}
+.v{
+    margin-left: 20px;
+}
+.u{
+    padding-top: 30px;
+}
